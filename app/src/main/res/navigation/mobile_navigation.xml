@@ -22,4 +22,9 @@
         android:name="com.application.orderneat.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/nav_login"
+        android:name="com.application.orderneat.LoginSignupActivity"
+        android:label="@string/menu_login"
+        tools:layout="@layout/activity_login_signup" />
 </navigation>
